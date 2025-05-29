@@ -1,4 +1,6 @@
 # ComfyUI Curve Master
+![image](https://github.com/user-attachments/assets/c37902ca-185b-44ce-9040-3beb9d27c634)
+
 
 ## 🎨 Suite professionnelle d'édition de courbes et LUTs pour ComfyUI
 
@@ -18,3 +20,10 @@ La suite **Curve Master** est une collection de nœuds professionnels pour Comfy
 - 🔧 **Lissage Avancé** : Algorithmes de lissage et anti-écrêtage professionnels
 - 📊 **Gestion LUT** : Support multi-format (.cube, .3dl, .csp) avec génération automatique
 - 💾 **Système de Presets** : Sauvegarde et chargement de configurations personnalisées
+
+![image](https://github.com/user-attachments/assets/def617fb-ec60-4426-9244-9016a29d0d9c)
+
+![image](https://github.com/user-attachments/assets/fe2565a4-99bd-4508-9007-4f85865675d7)
+
+![image](https://github.com/user-attachments/assets/85f2f9df-bc65-47f4-acef-5a1dfafc70ad)
+
