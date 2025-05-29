@@ -1,0 +1,88 @@
+/* Styles pour ComfyUI Curve Master */
+
+.curve-editor-overlay {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.curve-editor-dialog {
+    color: #fff;
+}
+
+.curve-button {
+    background: #444;
+    border: 1px solid #666;
+    border-radius: 4px;
+    color: #fff;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 12px;
+    transition: all 0.2s ease;
+}
+
+.curve-button:hover {
+    background: #555;
+    border-color: #777;
+}
+
+.curve-button.primary {
+    background: #00ff88;
+    color: #000;
+    font-weight: 500;
+}
+
+.curve-button.primary:hover {
+    background: #00dd77;
+}
+
+.curve-preset-button {
+    background: #2a2a2a;
+    border: 1px solid #444;
+    border-radius: 4px;
+    color: #ccc;
+    padding: 8px 12px;
+    font-size: 11px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: center;
+}
+
+.curve-preset-button:hover {
+    background: #3a3a3a;
+    border-color: #666;
+    color: #fff;
+}
+
+.curve-preset-button:active {
+    background: #00ff88;
+    color: #000;
+    border-color: #00ff88;
+}
+
+/* Canvas styles */
+canvas {
+    cursor: crosshair;
+}
+
+canvas:focus {
+    outline: 2px solid #00ff88;
+    outline-offset: 2px;
+}
+
+/* Scrollbar pour la popup des presets */
+.curve-editor-dialog::-webkit-scrollbar {
+    width: 8px;
+}
+
+.curve-editor-dialog::-webkit-scrollbar-track {
+    background: #2a2a2a;
+    border-radius: 4px;
+}
+
+.curve-editor-dialog::-webkit-scrollbar-thumb {
+    background: #555;
+    border-radius: 4px;
+}
+
+.curve-editor-dialog::-webkit-scrollbar-thumb:hover {
+    background: #777;
+}
