@@ -20,6 +20,8 @@ La suite **Curve Master** est une collection de nœuds professionnels pour Comfy
 - 🔧 **Lissage Avancé** : Algorithmes de lissage et anti-écrêtage professionnels
 - 📊 **Gestion LUT** : Support multi-format (.cube, .3dl, .csp) avec génération automatique
 - 💾 **Système de Presets** : Sauvegarde et chargement de configurations personnalisées
+- 
+![image](https://github.com/user-attachments/assets/b58ff099-7ef8-46d9-bc1b-b9039df3b48b)
 
 ![image](https://github.com/user-attachments/assets/def617fb-ec60-4426-9244-9016a29d0d9c)
 
@@ -27,3 +29,5 @@ La suite **Curve Master** est une collection de nœuds professionnels pour Comfy
 
 ![image](https://github.com/user-attachments/assets/85f2f9df-bc65-47f4-acef-5a1dfafc70ad)
 
+place your luts and curve presets in this folder (under curve and luts folder).
+![image](https://github.com/user-attachments/assets/417a4916-c6f6-4b63-b4ba-cae0e73134f2)
