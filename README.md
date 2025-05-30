@@ -30,3 +30,20 @@ The **Curve Master** suite is a collection of professional nodes for ComfyUI, de
 
 ## place your luts and curve presets in this folder (under curve and luts folder).
 ![image](https://github.com/user-attachments/assets/417a4916-c6f6-4b63-b4ba-cae0e73134f2)
+
+
+<div align="center">
+
+<h3>🌟 <strong>Show Your Support</strong></h3>
+
+<p>If this project helped you, please consider giving it a ⭐ on GitHub!</p>
+
+<p><strong>Made with ❤️ for the ComfyUI community</strong></p>
+
+<p><strong>by Orion4D</strong></p>
+
+<a href="https://ko-fi.com/orion4d">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
+</div>
