@@ -1,26 +1,25 @@
 # ComfyUI Curve Master
 ![image](https://github.com/user-attachments/assets/c37902ca-185b-44ce-9040-3beb9d27c634)
 
+## 🎨 Professional Curve and LUT Editing Suite for ComfyUI
 
-## 🎨 Suite professionnelle d'édition de courbes et LUTs pour ComfyUI
-
-### Nœuds inclus :
-- 🎨 **Curve Master** - Éditeur de courbes multi-canaux
-- 📊 **LUT Manager** - Gestionnaire de LUTs
-- 🔧 **LUT Generator** - Générateur de LUTs
+### Included Nodes:
+- 🎨 **Curve Master** – Multi-channel curve editor  
+- 📊 **LUT Manager** – LUT manager  
+- 🔧 **LUT Generator** – LUT generator  
 
 ---
 
-## 🌟 Vue d'ensemble
+## 🌟 Overview
 
-La suite **Curve Master** est une collection de nœuds professionnels pour ComfyUI, conçue pour l'édition avancée de courbes colorimétriques et la gestion de LUTs (Look-Up Tables).
+The **Curve Master** suite is a collection of professional nodes for ComfyUI, designed for advanced color curve editing and LUT (Look-Up Table) management.
 
-### Fonctionnalités principales
-- 🎨 **Interface Interactive** : Éditeur de courbes multi-canaux avec interface graphique intuitive
-- 🔧 **Lissage Avancé** : Algorithmes de lissage et anti-écrêtage professionnels
-- 📊 **Gestion LUT** : Support multi-format (.cube, .3dl, .csp) avec génération automatique
-- 💾 **Système de Presets** : Sauvegarde et chargement de configurations personnalisées
-- 
+### Key Features
+- 🎨 **Interactive Interface**: Multi-channel curve editor with an intuitive graphical UI  
+- 🔧 **Advanced Smoothing**: Professional-grade smoothing and anti-clipping algorithms  
+- 📊 **LUT Management**: Multi-format support (.cube, .3dl, .csp) with automatic generation  
+- 💾 **Preset System**: Save and load custom configurations  
+ 
 ![image](https://github.com/user-attachments/assets/b58ff099-7ef8-46d9-bc1b-b9039df3b48b)
 
 ![image](https://github.com/user-attachments/assets/def617fb-ec60-4426-9244-9016a29d0d9c)
@@ -29,5 +28,5 @@ La suite **Curve Master** est une collection de nœuds professionnels pour Comfy
 
 ![image](https://github.com/user-attachments/assets/85f2f9df-bc65-47f4-acef-5a1dfafc70ad)
 
-place your luts and curve presets in this folder (under curve and luts folder).
+## place your luts and curve presets in this folder (under curve and luts folder).
 ![image](https://github.com/user-attachments/assets/417a4916-c6f6-4b63-b4ba-cae0e73134f2)
